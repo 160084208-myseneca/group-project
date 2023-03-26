@@ -11,28 +11,28 @@
  **TEACHER’S NAME: Ben Singh**
 
 ---
- ## Table Of contents 
+ ## **Table Of contents**
 1. [Plan](#Image)
 2. [Game Name](#Single-Line-Code-Example)
 3. [How this Game works](#Multi-Line-Code-Example)
 4. [Commands Used](#Json-Objects)
 
 ---
-## Plan
+## **Plan**
 
 
 ---
-## Game Name
+## **Game Name**
 
-**RPSbyTHEBOYS**
+# **RPSbyTHEBOYS**
 
 ---
 
-## Hows This Game Works
+## **Hows This Game Works**
 
-1. This script imports the random module and creates a list of valid options: rock, paper, and scissors.
+1. This script imports the `random` module and creates a list of valid options: rock, paper, and scissors.
 2. This script enters a loop to play multiple rounds. Within the loop:
-3. This script uses random.choice() to select a random option from the list for the computer.
+3. This script uses `random.choice()` to select a random option from the list for the computer.
 4. This script asks the user to input their choice of rock, paper, or scissors.
 5. This script checks if the user input is valid. If it's not, the program asks the user to try again.
 6. This script prints the user's and computer's options.
@@ -64,30 +64,37 @@ Finally, conclude the game by expressing gratitude to the user for their partici
 
 ---
 
-## Issues
+## **Issues**
 
-The issue of this script is that it doesnt prompt the user if he wants to play again or if he wants to continue the game, this script will just continue to loop the same rock/paper/scissors game and to fix this issue i need to create a exit statement depedning on if the user wants to continue to play another round
+The issue of this script is that it doesnt prompt the user if he wants to play again or if he wants to continue the game, this script will just continue to loop the same rock/paper/scissors game and to fix this issue i need to create a `exit` statement depedning on if the user wants to continue to play another round
 
 [SCREENSHOT OF THE ISSUE](./images/issue.JPG)
 
 
-## Playing The Game: 
+## **Playing The Game:**
 First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SCISSORS and then if you choose Paper and if you win it prompt that You win if u dont it promt The computer wins and if you tie it promt it ties and lastly the game will ask you if you want to play again if you answer yes it repeats the loop and if you answer no its promt `Thanks For Playing!`
 
 [SCREENSHOT OF THE GAMEPLAY](./images/gameplay.JPG)
 
+## **Deployment**
+
+`git merge Iteration1,2`
+
+![DEPLOYMENT](./images/GITHUB-MERGE.JPG)
+
+
 ---
-## Commands Used
+## **Commands Used**
 
 | COMMANDS USED  | SCREENSHOT     |
 | -------------- | --------------|
-| `git clone git clone https://github.com/160084208-myseneca/Assignment-1.git` | [screenshot1](./images/grouprespository.JPG) |
-| `git branch Iteration1 ` | [screenshot2](./images/gitbranch.JPG) |
-| `git add .` | [screenshot3](./images/commit-iteration1.JPG) |
-| `git commit -m 'adds rpsGame.py in branch and created branch'` | [screenshot4](./images/commit-iteration1.JPG) |
-| `git push origin Iteration1` | [screenshot5](./images/git-push-Iteration1.JPG) |
-| `git branch Iteration2`| [screenshot6](./images/git-branch-interation2.JPG) |
-| `git checkout Iteration2` | [screenshot7](./images/git-branch-interation2.JPG) |
-| `git commit -m '"adds branch2 and fix issue"'` | [screenshot8](./images/git-branch-interation2.JPG) |
-| `git push origin Iteration2` | [screenshot9](./images/github-branch2.JPG)) |
-| `git branch` | [screenshot10](screenshots/10.png) |
+| `git clone git clone https://github.com/160084208-myseneca/Assignment-1.git` | [COMMAND-SCNREENSHOT](./images/grouprespository.JPG) |
+| `git branch Iteration1 ` | [COMMAND-SCNREENSHOT](./images/gitbranch.JPG) |
+| `git add .` | [COMMAND-SCNREENSHOT](./images/commit-iteration1.JPG) |
+| `git commit -m 'adds rpsGame.py in branch and created branch'` | [COMMAND-SCNREENSHOT](./images/commit-iteration1.JPG) |
+| `git push origin Iteration1` | [GITHUB-SCREENSHOT](./images/git-push-Iteration1.JPG) |
+| `git branch Iteration2`| [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git checkout Iteration2` | [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git commit -m '"adds branch2 and fix issue"'` | [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git push origin Iteration2` | [GITHUB-SCREENSHOT](./images/github-branch2.JPG) |\
+| `git merge Iteration1,2` | [COMMAND-SCNREENSHOT](./images/merge.JPG),[GITHUB-SCREENSHOT](./images/GITHUB-MERGE.JPG) |
