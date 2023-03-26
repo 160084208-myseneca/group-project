@@ -41,10 +41,10 @@ while True:
         else:
             print("You win!")
 
-    # Ask user to play again
+# Ask user to play again
     play_again = input("Do you want to play again? (yes or no): ").lower()
     if play_again == "no":
         break
-
+    
 # End of game
 print("Thanks for playing!")
