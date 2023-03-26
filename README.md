@@ -12,23 +12,19 @@
 
 ---
  ## **Table Of contents**
-1. [Plan](#Image)
-2. [Game Name](#Single-Line-Code-Example)
-3. [How this Game works](#Multi-Line-Code-Example)
-4. [Commands Used](#Json-Objects)
-
----
-## **Plan**
-
+1. [Plan](#plan)
+2. [Game Name](#game-name)
+3. [How this Game works](#how-this-game-works)
+4. [Commands Used](#commands-used)
 
 ---
 ## **Game Name**
 
 # **RPSbyTHEBOYS**
 
----
+# **Plan**
 
-## **Hows This Game Works**
+## **How This Game Works**
 
 1. This script imports the `random` module and creates a list of valid options: rock, paper, and scissors.
 2. This script enters a loop to play multiple rounds. Within the loop:
@@ -42,25 +38,25 @@
 
 ---
 
-## Algorithm explaining the game
+## **Algorithm explaining the game**
 
-The Rock-Paper-Scissors game operates on an established algorithm that follows these steps: First, initialize a list of valid options (rock, paper, and scissors).
+- The Rock-Paper-Scissors game operates on an established algorithm that follows these steps: First, initialize a list of valid options (rock, paper, and scissors).
 
-Then, initiate a loop to play multiple rounds.
+- Then, initiate a loop to play multiple rounds.
 
-During each round, select an option randomly from the list for the computer using the random.choice() function.
+- During each round, select an option randomly from the list for the computer using the random.choice() function.
 
-Prompt the user to input their choice of rock, paper, or scissors, and verify the input for validity.
+- Prompt the user to input their choice of rock, paper, or scissors, and verify the input for validity.
 
-If the input is invalid, prompt the user to retry until a valid input is received.
+- If the input is invalid, prompt the user to retry until a valid input is received.
 
-Display the options chosen by the user and the computer, determine the winner of the round based on the predetermined rules of Rock-Paper-Scissors, and print the winner's name.
+- Display the options chosen by the user and the computer, determine the winner of the round based on the predetermined rules of Rock-Paper-Scissors, and print the winner's name.
 
-Query the user if they desire to continue playing.
+- Query the user if they desire to continue playing.
 
-If the user responds negatively, exit the loop.
+- If the user responds negatively, exit the loop.
 
-Finally, conclude the game by expressing gratitude to the user for their participation when the loop ends
+- Finally, conclude the game by expressing gratitude to the user for their participation when the loop ends
 
 ---
 
