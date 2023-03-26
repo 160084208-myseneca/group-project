@@ -75,4 +75,4 @@ First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SC
 | `git checkout Iteration2` | [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
 | `git commit -m '"adds branch2 and fix issue"'` | [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
 | `git push origin Iteration2` | [GITHUB-SCREENSHOT](./images/github-branch2.JPG) |\
-| `git merge Iteration1,2` | [COMMAND-SCNREENSHOT](./images/merge.JPG),[GITHUB-SCREENSHOT](./images/GITHUB-MERGE.JPG) |
+| `git merge Iteration1,2` | [COMMAND-SCNREENSHOT](./images/merge.JPG), [GITHUB-SCREENSHOT](./images/GITHUB-MERGE.JPG) |
