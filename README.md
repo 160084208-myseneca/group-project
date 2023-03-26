@@ -48,6 +48,12 @@ The issue of this script is that it doesnt prompt the user if he wants to play a
 
 [SCREENSHOT OF THE ISSUE](./images/issue.JPG)
 
+
+## Playing The Game: 
+First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SCISSORS and then if you choose Paper and if you win it prompt that You win if u dont it promt The computer wins and if you tie it promt it ties and lastly the game will ask you if you want to play again if you answer yes it repeats the loop and if you answer no its promt `Thanks For Playing!`
+
+[SCREENSHOT OF THE GAMEPLAY](./images/gameplay.JPG)
+
 ---
 ## Commands Used
 
@@ -60,6 +66,6 @@ The issue of this script is that it doesnt prompt the user if he wants to play a
 | `git push origin Iteration1` | [screenshot5](./images/git-push-Iteration1.JPG) |
 | `git branch Iteration2`| [screenshot6](./images/git-branch-interation2.JPG) |
 | `git checkout Iteration2` | [screenshot7](./images/git-branch-interation2.JPG) |
-| `git log` | [screenshot8](screenshots/8.png) |
-| `git status` | [screenshot9](screenshots/9.png) |
+| `git commit -m '"adds branch2 and fix issue"'` | [screenshot8](./images/git-branch-interation2.JPG) |
+| `git push origin Iteration2` | [screenshot9](./images/github-branch2.JPG)) |
 | `git branch` | [screenshot10](screenshots/10.png) |
