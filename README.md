@@ -4,9 +4,9 @@
 
  **GROUPS’S NAME: Don Werner Salas, Alwen Roselio, Carl Fajardo**
 
- **GROUPS'S STUDENT NUMBER: DON-160084208,ALWEN-160085205**
+ **GROUPS'S STUDENT NUMBER: DON-160084208,ALWEN-160085205, CARL-111522215**
 
- **GITHUB GROUPS USER_ID: 160084208-MySeneca,160085205-myseneca,** 
+ **GITHUB GROUPS USER_ID: 160084208-MySeneca,160085205-myseneca, 111522215-Myseneca** 
 
  **TEACHER’S NAME: Ben Singh**
 
@@ -39,6 +39,28 @@
 7. This script determines the winner based on the rules of Rock-Paper-Scissors.
 8. This script asks the user if they want to play again. If the user inputs no, the loop breaks.
 9. This script thanks the user for playing when the loop ends.
+
+---
+
+## Algorithm explaining the game
+
+The Rock-Paper-Scissors game operates on an established algorithm that follows these steps: First, initialize a list of valid options (rock, paper, and scissors).
+
+Then, initiate a loop to play multiple rounds.
+
+During each round, select an option randomly from the list for the computer using the random.choice() function.
+
+Prompt the user to input their choice of rock, paper, or scissors, and verify the input for validity.
+
+If the input is invalid, prompt the user to retry until a valid input is received.
+
+Display the options chosen by the user and the computer, determine the winner of the round based on the predetermined rules of Rock-Paper-Scissors, and print the winner's name.
+
+Query the user if they desire to continue playing.
+
+If the user responds negatively, exit the loop.
+
+Finally, conclude the game by expressing gratitude to the user for their participation when the loop ends
 
 ---
 
