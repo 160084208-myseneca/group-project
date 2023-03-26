@@ -59,13 +59,13 @@ First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SC
 
 | COMMANDS USED  | SCREENSHOT     |
 | -------------- | --------------|
-| `git clone git clone https://github.com/160084208-myseneca/Assignment-1.git` | [screenshot1](./images/grouprespository.JPG) |
-| `git branch Iteration1 ` | [screenshot2](./images/gitbranch.JPG) |
-| `git add .` | [screenshot3](./images/commit-iteration1.JPG) |
-| `git commit -m 'adds rpsGame.py in branch and created branch'` | [screenshot4](./images/commit-iteration1.JPG) |
-| `git push origin Iteration1` | [screenshot5](./images/git-push-Iteration1.JPG) |
-| `git branch Iteration2`| [screenshot6](./images/git-branch-interation2.JPG) |
-| `git checkout Iteration2` | [screenshot7](./images/git-branch-interation2.JPG) |
-| `git commit -m '"adds branch2 and fix issue"'` | [screenshot8](./images/git-branch-interation2.JPG) |
-| `git push origin Iteration2` | [screenshot9](./images/github-branch2.JPG)) |
-| `git branch` | [screenshot10](screenshots/10.png) |
+| `git clone git clone https://github.com/160084208-myseneca/Assignment-1.git` | [COMMAND-SCNREENSHOT](./images/grouprespository.JPG) |
+| `git branch Iteration1 ` | [COMMAND-SCNREENSHOT](./images/gitbranch.JPG) |
+| `git add .` | [COMMAND-SCNREENSHOT](./images/commit-iteration1.JPG) |
+| `git commit -m 'adds rpsGame.py in branch and created branch'` | [COMMAND-SCNREENSHOT](./images/commit-iteration1.JPG) |
+| `git push origin Iteration1` | [GITHUB-SCREENSHOT](./images/git-push-Iteration1.JPG) |
+| `git branch Iteration2`| [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git checkout Iteration2` | [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git commit -m '"adds branch2 and fix issue"'` | [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git push origin Iteration2` | [GITHUB-SCREENSHOT](./images/github-branch2.JPG) |\
+| `git merge Iteration1,2` | [COMMAND-SCNREENSHOT](./images/merge.JPG),[GITHUB-SCREENSHOT](./images/GITHUB-MERGE.JPG) |
