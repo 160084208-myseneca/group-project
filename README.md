@@ -18,9 +18,14 @@
 4. [Commands Used](#commands-used)
 
 ---
-## **Game Name**
-
 # **RPSbyTHEBOYS**
+`GAME DEVELOPERS: ALWEN,CARL AND DON`
+
+`DOCUMENTATIONS: ALWEN,CARL`
+
+`VS-CODE AND GITHUB EDITOR: DON`
+
+`SCRIPTS BY: ALWEN,DON,CARL`
 
 # **Plan**
 
