@@ -30,7 +30,7 @@
 # **Plan**
 
 ## **How This Game Works**
-
+`By: Carl,Alwen and Don`
 1. This script imports the `random` module and creates a list of valid options: rock, paper, and scissors.
 2. This script enters a loop to play multiple rounds. Within the loop:
 3. This script uses `random.choice()` to select a random option from the list for the computer.
@@ -67,6 +67,7 @@
 
 ## **Issues**
 `By: Don Werner Salas`
+
 The issue of this script is that it doesnt prompt the user if he wants to play again or if he wants to continue the game, this script will just continue to loop the same rock/paper/scissors game and to fix this issue i need to create a `exit` statement depedning on if the user wants to continue to play another round
 
 [SCREENSHOT OF THE ISSUE](./images/issue.JPG)
@@ -74,6 +75,7 @@ The issue of this script is that it doesnt prompt the user if he wants to play a
 
 ## **Playing The Game:**
 `By: Don Werner Salas`
+
 First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SCISSORS and then if you choose Paper and if you win it prompt that You win if u dont it promt The computer wins and if you tie it promt it ties and lastly the game will ask you if you want to play again if you answer yes it repeats the loop and if you answer no its promt `Thanks For Playing!`
 
 [SCREENSHOT OF THE GAMEPLAY](./images/gameplay.JPG)
