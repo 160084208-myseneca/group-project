@@ -13,9 +13,14 @@
 ---
  ## **Table Of contents**
 1. [Plan](#plan)
-2. [Game Name](#game-name)
-3. [How this Game works](#how-this-game-works)
-4. [Commands Used](#commands-used)
+2. [How this Game works](#how-this-game-works)
+3. [Algorithm](#algorithm-explaining-the-game)
+4. [Issues](#issues)
+5. [Gameplay](#playing-the-game)
+6. [Deplotment](#deployment)
+7. [Flow Chart](#flow-chart)
+8. [Commands Used](#commands-used)
+
 
 ---
 # **RPSbyTHEBOYS**
