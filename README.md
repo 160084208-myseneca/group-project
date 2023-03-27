@@ -75,7 +75,7 @@
 
 The issue of this script is that it doesnt prompt the user if he wants to play again or if he wants to continue the game, this script will just continue to loop the same rock/paper/scissors game and to fix this issue i need to create a `exit` statement depedning on if the user wants to continue to play another round
 
-[SCREENSHOT OF THE ISSUE](./images/issue.JPG)
+![SCREENSHOT OF THE ISSUE](./images/issue.JPG)
 
 
 ## **Playing The Game:**
@@ -83,7 +83,7 @@ The issue of this script is that it doesnt prompt the user if he wants to play a
 
 First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SCISSORS and then if you choose Paper and if you win it prompt that You win if u dont it promt The computer wins and if you tie it promt it ties and lastly the game will ask you if you want to play again if you answer yes it repeats the loop and if you answer no its promt `Thanks For Playing!`
 
-[SCREENSHOT OF THE GAMEPLAY](./images/gameplay.JPG)
+![SCREENSHOT OF THE GAMEPLAY](./images/gameplay.JPG)
 
 ## **Deployment**
 
@@ -101,13 +101,13 @@ First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SC
 
 | COMMANDS USED  | SCREENSHOT     |
 | -------------- | --------------|
-| `git clone git clone https://github.com/160084208-myseneca/Assignment-1.git` | [COMMAND-SCNREENSHOT](./images/grouprespository.JPG) |
-| `git branch Iteration1 ` | [COMMAND-SCNREENSHOT](./images/gitbranch.JPG) |
-| `git add .` | [COMMAND-SCNREENSHOT](./images/commit-iteration1.JPG) |
-| `git commit -m 'adds rpsGame.py in branch and created branch'` | [COMMAND-SCNREENSHOT](./images/commit-iteration1.JPG) |
-| `git push origin Iteration1` | [GITHUB-SCREENSHOT](./images/git-push-Iteration1.JPG) |
-| `git branch Iteration2`| [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
-| `git checkout Iteration2` | [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
-| `git commit -m '"adds branch2 and fix issue"'` | [COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
-| `git push origin Iteration2` | [GITHUB-SCREENSHOT](./images/github-branch2.JPG) |\
-| `git merge Iteration1,2` | [COMMAND-SCNREENSHOT](./images/merge.JPG), [GITHUB-SCREENSHOT](./images/GITHUB-MERGE.JPG) |
+| `git clone git clone https://github.com/160084208-myseneca/Assignment-1.git` | ![COMMAND-SCNREENSHOT](./images/grouprespository.JPG) |
+| `git branch Iteration1 ` | ![COMMAND-SCNREENSHOT](./images/gitbranch.JPG) |
+| `git add .` | ![COMMAND-SCNREENSHOT](./images/commit-iteration1.JPG) |
+| `git commit -m 'adds rpsGame.py in branch and created branch'` | ![COMMAND-SCNREENSHOT](./images/commit-iteration1.JPG) |
+| `git push origin Iteration1` | ![GITHUB-SCREENSHOT](./images/git-push-Iteration1.JPG) |
+| `git branch Iteration2`| ![COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git checkout Iteration2` | ![COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git commit -m '"adds branch2 and fix issue"'` | ![COMMAND-SCNREENSHOT](./images/git-branch-interation2.JPG) |
+| `git push origin Iteration2` | ![GITHUB-SCREENSHOT](./images/github-branch2.JPG) |\
+| `git merge Iteration1,2` | ![!COMMAND-SCNREENSHOT](./images/merge.JPG), ![GITHUB-SCREENSHOT](./images/GITHUB-MERGE.JPG) |
