@@ -44,7 +44,7 @@
 ---
 
 ## **Algorithm explaining the game**
-
+`By : Carl Fajardo`
 - The Rock-Paper-Scissors game operates on an established algorithm that follows these steps: First, initialize a list of valid options (rock, paper, and scissors).
 
 - Then, initiate a loop to play multiple rounds.
@@ -66,13 +66,14 @@
 ---
 
 ## **Issues**
-
+`By: Don Werner Salas`
 The issue of this script is that it doesnt prompt the user if he wants to play again or if he wants to continue the game, this script will just continue to loop the same rock/paper/scissors game and to fix this issue i need to create a `exit` statement depedning on if the user wants to continue to play another round
 
 [SCREENSHOT OF THE ISSUE](./images/issue.JPG)
 
 
 ## **Playing The Game:**
+`By: Don Werner Salas`
 First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SCISSORS and then if you choose Paper and if you win it prompt that You win if u dont it promt The computer wins and if you tie it promt it ties and lastly the game will ask you if you want to play again if you answer yes it repeats the loop and if you answer no its promt `Thanks For Playing!`
 
 [SCREENSHOT OF THE GAMEPLAY](./images/gameplay.JPG)
@@ -83,6 +84,10 @@ First The Game Will Welcome and it will ask you to choose from ROCK,PAPER AND SC
 
 ![DEPLOYMENT](./images/GITHUB-MERGE.JPG)
 
+---
+## **Flow Chart**
+`By: Alwen Roselio`
+![flowchart](./images/flowchartops.png)
 
 ---
 ## **Commands Used**
